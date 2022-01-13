@@ -113,8 +113,8 @@ github.com/argoproj/argo-cd/v2 v2.1.0 h1:1HUxHj1+iWX3jb2cOQonP6gXN1e2zHvCXcUgR6p
 github.com/argoproj/argo-cd/v2 v2.1.0/go.mod h1:/e8fSyHanaAHLR5YsIIWfCGujTN452K6L7DaYep5KRU=
 github.com/argoproj/gitops-engine v0.3.1-0.20210709004906-a4c77d5c70fb/go.mod h1:EdFe8qIOqsmbyxRhtIydU4BUeyZ4VTsY6R3XVQhU9LA=
 github.com/argoproj/gitops-engine v0.4.0/go.mod h1:EdFe8qIOqsmbyxRhtIydU4BUeyZ4VTsY6R3XVQhU9LA=
-github.com/argoproj/gitops-engine v0.4.1 h1:kBAAWVUBfnhD40sRIEr3XcUcPZHODOmwSXSpySmVWR0=
-github.com/argoproj/gitops-engine v0.4.1/go.mod h1:EdFe8qIOqsmbyxRhtIydU4BUeyZ4VTsY6R3XVQhU9LA=
+github.com/argoproj/gitops-engine v0.5.2 h1:UQ2ajVyUPCSgFyqidzlTXddh/Xf6cE3I0s9uu92BoJg=
+github.com/argoproj/gitops-engine v0.5.2/go.mod h1:K2RYpGXh11VdFwDksS23SyFTOJaPcsF+MVJ/FHlqEOE=
 github.com/argoproj/pkg v0.9.1 h1:osfOS3QkzfRf+W43lbCZb0o0bzrBweQhL+U3rgEg+5M=
 github.com/argoproj/pkg v0.9.1/go.mod h1:ra+bQPmbVAoEL+gYSKesuigt4m49i3Qa3mE/xQcjCiA=
 github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e/go.mod h1:3U/XgcO3hCbHZ8TKRvWD2dDTCfh9M9ya+I9JpbB7O8o=
@@ -1365,8 +1365,9 @@ k8s.io/heapster v1.2.0-beta.1/go.mod h1:h1uhptVXMwC8xtZBYsPXKVi8fpdlYkTs6k949Koz
 k8s.io/klog/v2 v2.0.0/go.mod h1:PBfzABfn139FHAV07az/IF9Wp1bkk3vpT2XSJ76fSDE=
 k8s.io/klog/v2 v2.2.0/go.mod h1:Od+F08eJP+W3HUb4pSrPpgp9DGU4GzlpG/TmITuYh/Y=
 k8s.io/klog/v2 v2.5.0/go.mod h1:hy9LJ/NvuK+iVyP4Ehqva4HxZG/oXyIS3n3Jmire4Ec=
-k8s.io/klog/v2 v2.8.0 h1:Q3gmuM9hKEjefWFFYF0Mat+YyFJvsUyYuwyNNJ5C9Ts=
 k8s.io/klog/v2 v2.8.0/go.mod h1:hy9LJ/NvuK+iVyP4Ehqva4HxZG/oXyIS3n3Jmire4Ec=
+k8s.io/klog/v2 v2.9.0 h1:D7HV+n1V57XeZ0m6tdRkfknthUaM06VFbWldOFh8kzM=
+k8s.io/klog/v2 v2.9.0/go.mod h1:hy9LJ/NvuK+iVyP4Ehqva4HxZG/oXyIS3n3Jmire4Ec=
 k8s.io/kube-aggregator v0.21.1 h1:3pPRhOXZcJYjNDjPDizFx0G5//DArWKANZE03J5z8Ck=
 k8s.io/kube-aggregator v0.21.1/go.mod h1:cAZ0n02IiSl57sQSHz4vvrz3upQRMbytOiZnpPJaQzQ=
 k8s.io/kube-controller-manager v0.21.1/go.mod h1:zEzQfcDGMQFFFpeWXv5GdJKIDR00LB4wp+hKYeRw7yc=
