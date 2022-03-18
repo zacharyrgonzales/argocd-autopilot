@@ -6,7 +6,7 @@ require (
 	code.gitea.io/sdk/gitea v0.14.1
 	github.com/argoproj-labs/applicationset v0.2.0
 	github.com/argoproj/argo-cd/v2 v2.1.0
-	github.com/argoproj/gitops-engine v0.4.1
+	github.com/argoproj/gitops-engine v0.6.1
 	github.com/briandowns/spinner v1.16.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-git/go-billy/v5 v5.3.1
@@ -16,17 +16,17 @@ require (
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/microsoft/azure-devops-go-api/azuredevops v1.0.0-b5
 	github.com/sirupsen/logrus v1.8.1
-	github.com/spf13/cobra v1.1.3
+	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
-	github.com/spf13/viper v1.7.1
+	github.com/spf13/viper v1.8.1
 	github.com/stretchr/testify v1.7.0
 	github.com/xanzy/go-gitlab v0.52.2
-	k8s.io/api v0.21.3
-	k8s.io/apimachinery v0.21.1
-	k8s.io/cli-runtime v0.21.1
+	k8s.io/api v0.23.1
+	k8s.io/apimachinery v0.23.1
+	k8s.io/cli-runtime v0.23.1
 	k8s.io/client-go v11.0.1-0.20190816222228-6d55c1b1f1ca+incompatible
-	k8s.io/kubectl v0.21.3
-	sigs.k8s.io/kustomize/api v0.8.8
+	k8s.io/kubectl v0.23.1
+	sigs.k8s.io/kustomize/api v0.10.1
 )
 
 replace (
